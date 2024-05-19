@@ -1,7 +1,7 @@
 /* light theme */
 body { 
-  background: #ffffff;
-  color: #ffffff;}
+  background: #EEE url(../images/light.png);
+  color: #444;}
 
 h2, h6 { 
   color: #07E5F9;}
